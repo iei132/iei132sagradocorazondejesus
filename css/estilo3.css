@@ -180,7 +180,7 @@ section{
 }
 .services .contenedor{
     width: 100%;
-    max-width: 1200px;
+    max-width: 1100px;
     margin: auto;
     justify-content: center;
     align-items: center;
@@ -189,7 +189,7 @@ section{
 }
 .services .tabla{
     width: 33%;
-    height: 1100px;
+    height: 1150px;
     margin: auto;
     box-shadow: 0px 0px 4px 0px #343759;
     padding: 60px;
