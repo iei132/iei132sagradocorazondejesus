@@ -194,7 +194,7 @@ section{
 .services .box-container{
     position: relative;
     width: 640px;
-    height: 800px;
+    height: 750px;
     background: #287bff;
     margin: 30px;
     border-radius: 20px;
@@ -253,6 +253,8 @@ section{
     padding:1rem 0;
     line-height: 1.8;
     text-align: justify;
+    width: 100%;
+    display: block;
 }
 
 .lema{
@@ -486,6 +488,6 @@ section{
 
     html{
         font-size: 50%;
-    }
+    
 
 }
