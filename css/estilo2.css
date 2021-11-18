@@ -206,6 +206,7 @@ section{
     display: flex;
     justify-content:center;
     align-items: flex-start;
+    min-width: 300px;
 }
 
 .services .box-container::before{
